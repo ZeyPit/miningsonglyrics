@@ -7,4 +7,4 @@ with basic information about the top 10 songs from Rihanna and Justin Timberlake
 This code is meant to be used for Natural Language Processing projects (e.g. song genre classification, song lyrics analysis).
 Feel free to modify the code as you please.
 
-Code explained in my blog post, [Mining Song Lyrics from Genius](https://zpitenis.com/mining-song-lyrics-from-Genius).
+Code explained in my blog post, [Mining Song Lyrics from Genius](https://zpitenis.com/blog/post/mining-song-lyrics-from-Genius).
